@@ -1,1 +1,1 @@
-Print current working directory. 
+Basic bash scripts. 
