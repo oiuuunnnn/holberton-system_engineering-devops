@@ -1,2 +1,2 @@
 #!/bin/bash
-su usermod -l betty\
+sudo usermod -l betty\
